@@ -9,13 +9,13 @@ navbar_entries:
 
 project_entries:
   - title: информация
-    url: others(pt)
+    url: others-pt
 
   - title: сливы
-    url: sliv(pt)
+    url: sliv-pt
     
   - title: материалы
-    url: mater(pt)
+    url: mater-pt
  
 
 
