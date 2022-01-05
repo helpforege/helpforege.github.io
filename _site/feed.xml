@@ -1,9 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-27T23:54:35+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">математикъ</title><subtitle></subtitle><author><name>Abhinav Saxena</name></author><entry><title type="html">сливы</title><link href="http://localhost:4000/sliv-pt.html" rel="alternate" type="text/html" title="сливы" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/sliv-pt</id><content type="html" xml:base="http://localhost:4000/sliv-pt.html"></content><author><name>Abhinav Saxena</name></author><summary type="html"></summary></entry><entry><title type="html">другое</title><link href="http://localhost:4000/others-pt.html" rel="alternate" type="text/html" title="другое" /><published>2021-11-10T00:00:00+03:00</published><updated>2021-11-10T00:00:00+03:00</updated><id>http://localhost:4000/others-pt</id><content type="html" xml:base="http://localhost:4000/others-pt.html">&lt;blockquote&gt;
-  &lt;p&gt;математики
-&lt;img src=&quot;images/math.jpg&quot; alt=&quot;Альтернативный текст&quot; /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-05T22:51:04+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">математикъ</title><subtitle></subtitle><author><name>Abhinav Saxena</name></author><entry><title type="html">новвоведения в ЕГЭ</title><link href="http://localhost:4000/ege22-pt.html" rel="alternate" type="text/html" title="новвоведения в ЕГЭ" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/ege22-pt</id><content type="html" xml:base="http://localhost:4000/ege22-pt.html">&lt;h2 id=&quot;что-изменилось-в-2022-в-егэ-по-профильной-математике&quot;&gt;Что изменилось в 2022 в ЕГЭ по профильной математике&lt;/h2&gt;
 
-&lt;p&gt;текст&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;комментрий&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">математики</summary></entry><entry><title type="html">блог</title><link href="http://localhost:4000/mater-pt.html" rel="alternate" type="text/html" title="блог" /><published>2021-11-09T00:00:00+03:00</published><updated>2021-11-09T00:00:00+03:00</updated><id>http://localhost:4000/mater-pt</id><content type="html" xml:base="http://localhost:4000/mater-pt.html"></content><author><name>Abhinav Saxena</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;И начнем мы с инноваций, которые уже официально утверждены ФИПИ.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Изменения, связанные с заданиями:
+   Ура, ликуйте, выпускники, ведь количество заданий уменьшилось. Вариант ЕГЭ по профилю будет состоять из 18 заданий. Правда, изменения коснулись самых любимых одиннадцатиклассниками номеров. Так, например, никогда больше в КИМах мы не увидим первого номера. Это звание теперь гордо носит решение простейшего уравнения (в прошлом номер 5). На место привычного 2 задания встал бывший номер 4 — теория вероятности, а на четвертом месте оказалась планиметрия, которая раньше шла шестым заданием.&lt;/p&gt;
+
+    &lt;p&gt;Резко позиции сдал номер 9, ставший в обновленной версии базовым 5. Кстати, раньше это задание имело маркировку повышенной сложности. С 8 на 6 перешла стереометрия, а 10 переместилось на 8. Девятой по счету теперь решаем задачу на движение, сплавы и смеси или проценты.&lt;/p&gt;
+
+    &lt;p&gt;А вот в “полку” второй части экзамена по профильной математике явно убыло. В геройском бою потеряло свой пункт 5 задание 13 — теперь отбирать нужные корни заданного промежутка не придется.&lt;/p&gt;
+
+    &lt;p&gt;Самые крупные изменения в экзамене по профилю потерпел 15 номер. Когда-то давно эксперты решили упростить задание и вместо системы уравнения и неравенства оставили обычные неравенства. Но в этом году все повернулось на 360 градусов (математики, поняли, о чем мы?). Усложненный вариант вновь будет представлять собой систему уравнения и неравенства.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Вот и все, что касается изменений непосредственно заданий в ЕГЭ по математике профильного уровня 2022. Двигаемся дальше!&lt;/p&gt;
+
+&lt;h2 id=&quot;новые-задания-на-профиле-2022&quot;&gt;Новые задания на профиле 2022:&lt;/h2&gt;
+&lt;p&gt;Да-да, новинками в этом сезоне не обделили и ЕГЭ по математике профильного уровня. Что же нас ждет за этой дверью?&lt;/p&gt;
+
+&lt;p&gt;Задание 3 — анализ функций. Формат, который годами игнорировался на экзамене по профильной математике, появился в 2022. Ух, а вот сейчас пристегивайте ремни, мы вплотную приблизились к заданиям повышенной сложности.&lt;/p&gt;
+
+&lt;p&gt;Номер 10 из блока «Элементы комбинаторики, статистики и теории вероятностей» и задание 11 на комплексные числа, напомним, раньше на ЕГЭ эту тему не затрагивали в принципе (даже у профильщиков).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Критерии оценивания ЕГЭ по профильной математике 
+   По традиции экзамен по профильной математике в 2022 году будет оцениваться по давно разработанной системе первичных баллов. Максимальный балл за выполнение работы увеличился за счет сложности 13 задания: подняли с 2 до 3, за номер 15 теперь максимально можно получить 2 балла. В общей сложности за экзамен по профилю теперь можно получить 31 первичный балл.&lt;/p&gt;
+
+    &lt;p&gt;“Ну вот получил я, например, 28, а во вторичных-то это сколько?” — обязательно спросите вы. И мы ответим. Для перевода во вторичную систему существует специально разработанная таблица, ориентироваться в которой предельно просто. Ищем количество набранных баллов в первом столбике и смотрим их перевод во втором. Вуаля, вот и ваш результат!&lt;/p&gt;
+
+    &lt;p&gt;А сейчас немного про минимальные пороги. Конечно, мы уверены, что вы превзойдете эти баллы в два, три, а то и все 10 раз, но все-таки знать это необходимо. Итак, чтобы получить аттестат и иметь возможность поступить в вуз, нужно набрать 5 первичных=23 вторичных балла. А если ваша мечта — поступление в подведомственные вузы Минобрнауки, то минимумом будет 7 первичных=33 вторичных балла.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;варианты-егэ-математика-профиль-2022&quot;&gt;Варианты ЕГЭ математика профиль 2022&lt;/h2&gt;
+
+&lt;p&gt;Структура ЕГЭ по профильной математике 2022
+     Ваш вариант экзамена по профильной математике все так же будет состоять из двух частей. В первой от вас потребуется краткий ответ, который вы впоследствии занесете в бланк. Во второй уже посложнее — развернутое решение каждого задания.&lt;/p&gt;
+
+&lt;p&gt;Всего в ЕГЭ по профильной математике 3 блока заданий:&lt;/p&gt;
+
+&lt;p&gt;алгебра и начала анализа (8 заданий);
+геометрия (4 задания);
+реальная математика (6 заданий);&lt;/p&gt;
+
+&lt;p&gt;Помните, что экзамен по профильной математике в 2022 году, как и раньше, продлится 235 минут. Рассчитывайте свое время и успевайте решить максимальное количество заданий.&lt;/p&gt;
+
+&lt;p&gt;Подготовка к экзамену по профильной математике
+     На самом деле как бы ни напугали вас все нововведения и изменения, страх нужно откинуть в сторону. Впереди год плодотворной и усиленной работы, за который вы сможете совершить чудо. Хотя в вопросе экзаменов речь идет совсем не о волшебстве.&lt;/p&gt;
+
+&lt;p&gt;Прорабатывайте и нарешивайте задания по каждой теме, учите то, что за 11 лет школы далось не так хорошо, повторяйте материал, который знаете в совершенстве. Составьте личный план подготовки к ЕГЭ по профильной математике и не опускайте руки. Помните, что ЕГЭ как уравнение: поначалу мы видим много неизвестных, но в итоге находим решение! Удачи!&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Что изменилось в 2022 в ЕГЭ по профильной математике</summary></entry><entry><title type="html">сливы</title><link href="http://localhost:4000/sliv-pt.html" rel="alternate" type="text/html" title="сливы" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/sliv-pt</id><content type="html" xml:base="http://localhost:4000/sliv-pt.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h1 id=&quot;сливы&quot;&gt;сливы&lt;/h1&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;телеграм&quot;&gt;телеграм&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;--наш-чатик&quot;&gt;- &lt;a href=&quot;https://t.me/ilovematematiku&quot;&gt;наш чатик&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/+2TgQrqbDM4ZhNzQ6&quot;&gt;Суперинтенсив ЕГЭ по математике от Трушина&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/+MB3Tx8MiBvpkODgy&quot;&gt;Подготовка к ЕГЭ по математике от Wild Mathing 2020-2021&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/+yNE1aamsYLUzYzJi&quot;&gt;Мастер-группа по подготовке к ЕГЭ по математике от Lomonosov school&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/+AjLbMqUN_l03NjMy&quot;&gt;Подготовка к заданиям ЕГЭ на теорию вероятности от Трушина, 11 класс&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/foxford1&quot;&gt;Годовой курс по математике от Трушина по подготовке к ЕГЭ этого года&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/mgu91&quot;&gt;Математик МГУ 13 номер&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/Mathstudyonline14&quot;&gt;Математик МГУ 14 номер&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/mathstudyonline16&quot;&gt;Математик МГУ 16 номер&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/pifagor_13&quot;&gt;Пифагор 13&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/pifagor_14&quot;&gt;Пифагор 14&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/pifagor_15&quot;&gt;Пифагор 15&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/pifagor16&quot;&gt;Пифагор 16&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://t.me/pifagor_17&quot;&gt;Пифагор 17&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h1 id=&quot;приложения&quot;&gt;приложения&lt;/h1&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;android&quot;&gt;Android&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.microblink.photomath&amp;amp;hl=ru&amp;amp;gl=ru&quot;&gt;Photomath&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://moddroid.com/download/photomath-44478&quot;&gt;Photomath PLUS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=matematika.math.ege&quot;&gt;Математика ЕГЭ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.foxford.foxfordtextbook&quot;&gt;Фоксфорд учебник&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ege.exam&quot;&gt;ЕГЭ 2022&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.companyname.MaturaMatematyka&quot;&gt;Learn Math: Arithmetic to Trigonometry &amp;amp; Fractions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.studyapps.math&quot;&gt;Математика - школьный курс. Подготовка ЕГЭ и ОГЭ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.houseofapps.prostoege&quot;&gt;Простой ЕГЭ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ios&quot;&gt;iOS&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/id919087726&quot;&gt;Photomath&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/id1209287132&quot;&gt;Математические хитрости (100+)&lt;/a&gt;
+&lt;a href=&quot;https://apps.apple.com/ru/app/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%D0%BC-%D0%BE%D1%82-%D1%84%D0%BE%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4/id930911649&quot;&gt;Фоксфорд учебник&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-2022/id1198031689&quot;&gt;ЕГЭ 2022&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0/id1528282970&quot;&gt;Математика - геометрия алгебра&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-%D0%B5%D0%B3%D1%8D/id1164254385&quot;&gt;Простой ЕГЭ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/y75VErslEVQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">сливы</summary></entry></feed>

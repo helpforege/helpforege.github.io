@@ -8,14 +8,12 @@ navbar_entries:
 
 
 project_entries:
-  - title: информация
-    url: others-pt
-
   - title: сливы
     url: sliv-pt
-    
-  - title: материалы
-    url: mater-pt
+
+  - title: ЕГЭ 2022
+    url: ege22-pt
+
  
 
 

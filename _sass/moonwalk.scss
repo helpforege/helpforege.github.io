@@ -4,7 +4,7 @@
 html { height: 100%; }
 
 body {
-  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
+  font-family:  "ubuntu", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
   line-height: 2;
   margin: 0;
@@ -64,10 +64,10 @@ img {
   margin: 0 auto;
 }
 html {
-    --bg: #E4D0AA;
-    --bg-secondary: #f2e5bc;
+    --bg: #f3f1f5;
+    --bg-secondary: #F0D9FF;
     --headings: #282828;
-    --text: #282828;
+    --text: #000000;
 
     --links: #040542;
     --highlight: #a89984; // light yellow
@@ -77,12 +77,12 @@ html {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #fbf1c7;
+      --headings: #ffffff;
       --links: #7985E0;
-      --highlight: #fbf1c7;
-      --bg: #282828;
-      --bg-secondary: #282828;
-      --text: #fbf1c7;
+      --highlight: #ffffff;
+      --bg: #1f1f1f;
+      --bg-secondary: #1b1b1b;
+      --text: #ffffff;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
   };
