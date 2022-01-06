@@ -8,13 +8,15 @@ navbar_entries:
 
 
 project_entries:
-  - title: сливы
-    url: sliv-pt
+  - title: Сливы
+    url: sliv
 
   - title: ЕГЭ 2022
-    url: ege22-pt
-
- 
+    url: ege
+  - title: Тригонометрия
+    url: trigonometry
+  - title: Материалы
+    url: mater
 
 
 footer_entries:
