@@ -32,11 +32,8 @@ title: "Тригонометрия и с чем её едят"
 
 #### 1.2
 Если у вас есть немного больше времени и вы хотите разобраться глубже в тригонометрии, то тут мы задержимся немного подольше. Для вас есть отдельный плейлист со всей теорией от канала "Элементарная математика" и дальше я часто буду ссылаться на этот канал. Ссылка на плейлист по тригонометрии с нуля — [тык](https://youtube.com/playlist?list=PL1ZFQKClTmukaPmGvPk6dSpul3-zTpVlu)
-<main class="page-content" aria-label="Content">
-      <div class="w">
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL1ZFQKClTmukaPmGvPk6dSpul3-zTpVlu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-    </main>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL1ZFQKClTmukaPmGvPk6dSpul3-zTpVlu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 1.3
 Если вы любитель книг и не хотите смотреть видео, то для вас тоже есть вариант. Книга И. М. Гельфанда "Тригонометрия"  — [тык](materials/Тригонометрия-Гельфанд.pdf)
