@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" class="html" data-theme="light"><head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-  <title>
-    
-      Тригонометрия и с чем её едят
-    
-  </title>
-
-  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="математикъ" />
-
-  <link rel="shortcut icon" type="image/x-icon" href="//logo.png" />
-  <link rel="stylesheet" href="/assets/css/main.css" />
-  
-</head>
-<body>
-    <main class="page-content" aria-label="Content">
-      <div class="w">
-        <a href="/">назад</a>
-<p><img src="image/trigonometry.png" /></p>
+I"#<p><img src="image/trigonometry.png" /></p>
 
 <p>Тут будут собраны ссылки на ресурсы и файлы, которые помогут вам без проблем освоить материал. Статья будет полезна как начинающим, так и тем, кто уже освоил этот номер и хочет чего-то большего, чем обычное ЕГЭ.</p>
 
@@ -40,7 +18,8 @@
 <h4 id="11">1.1</h4>
 <p>Если вы любитель освоить материал за один стрим, то вам смело на стрим от Бориса Трушина по тригонометрии за три часа — <a href="https://youtu.be/Z5PrN6xen1g">тык</a></p>
 
-<iframe src="https://www.youtube-nocookie.com/embed/Z5PrN6xen1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    &lt;iframe src="https://www.youtube-nocookie.com/embed/Z5PrN6xen1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</code></pre></div></div>
 
 <h4 id="12">1.2</h4>
 <p>Если у вас есть немного больше времени и вы хотите разобраться глубже в тригонометрии, то тут мы задержимся немного подольше. Для вас есть отдельный плейлист со всей теорией от канала “Элементарная математика” и дальше я часто буду ссылаться на этот канал. Ссылка на плейлист по тригонометрии с нуля — <a href="https://youtube.com/playlist?list=PL1ZFQKClTmukaPmGvPk6dSpul3-zTpVlu">тык</a></p>
@@ -88,8 +67,4 @@
       <div class="w">
       </div>
     </main>
-
-
-      </div>
-    </main><script async defer src="https://sdk.soopr.co/soopr.js"></script></body>
-</html>
+:ET
