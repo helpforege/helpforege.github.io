@@ -15,45 +15,12 @@
   <link rel="shortcut icon" type="image/x-icon" href="//logo.png" />
   <link rel="stylesheet" href="/assets/css/main.css" />
   
-    <script type="text/javascript">
-  window.addEventListener('load', themeChange);
-  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
-  if (currentTheme)
-    document.documentElement.setAttribute('data-theme', currentTheme);
-
-  function themeChange() {
-    let button = document.querySelector('.theme-toggle');
-
-    button.addEventListener('click', function (e) {
-      let currentTheme = document.documentElement.getAttribute('data-theme');
-      if (currentTheme === 'dark') {
-        transition();
-        document.documentElement.setAttribute('data-theme', 'light');
-        localStorage.setItem('theme', 'light');
-      } else {
-        transition();
-        document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
-      }
-    });
-
-    let transition = () => {
-      document.documentElement.classList.add('transition');
-      window.setTimeout(() => {
-        document.documentElement.classList.remove('transition');
-      }, 1000);
-    }
-  }
-</script>
-
-
-  
 </head>
 <body>
     <main class="page-content" aria-label="Content">
       <div class="w">
-        <a href="/">Вернуться</a>
-<h1 id="тригонометрия-и-с-чем-её-едят">Тригонометрия и с чем её едят</h1>
+        <a href="/">назад</a>
+<p><img src="image/trigonometry.png" /></p>
 
 <p>Тут будут собраны ссылки на ресурсы и файлы, которые помогут вам без проблем освоить материал. Статья будет полезна как начинающим, так и тем, кто уже освоил этот номер и хочет чего-то большего, чем обычное ЕГЭ.</p>
 
@@ -79,7 +46,7 @@
     </main>
 
 <h4 id="12">1.2</h4>
-<p>Если у вас есть немного больше времени и ты хочешь разобраться глубже в тригонометрии, то тут мы задержимся немного подольше. Для вас есть отдельный плейлист со всей теорией от канала “Элементарная математика” и дальше я часто буду ссылаться на этот канал. Ссылка на плейлист по тригонометрии с нуля — <a href="https://youtube.com/playlist?list=PL1ZFQKClTmukaPmGvPk6dSpul3-zTpVlu">тык</a></p>
+<p>Если у вас есть немного больше времени и вы хочешь разобраться глубже в тригонометрии, то тут мы задержимся немного подольше. Для вас есть отдельный плейлист со всей теорией от канала “Элементарная математика” и дальше я часто буду ссылаться на этот канал. Ссылка на плейлист по тригонометрии с нуля — <a href="https://youtube.com/playlist?list=PL1ZFQKClTmukaPmGvPk6dSpul3-zTpVlu">тык</a></p>
 <main class="page-content" aria-label="Content">
       <div class="w">
       <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL1ZFQKClTmukaPmGvPk6dSpul3-zTpVlu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -94,7 +61,7 @@
 
 <p>Любого из четырёх вариантов будет достаточно для освоения теории. Если вы выбрали изучать материал по книге или бесплатному курсу, то можете перейти сразу к третьему разделу с примерами уровня выше ЕГЭ, ибо в книги И. М. Гельфанда и в бесплатном курсе очень много примеров и вам будет лучше прорешивать их. А если вы выбрали первый или второй вариант, то продолжим.</p>
 
-<p>После освоения теории, вам нужно будет заточить свои навыки под уровень ЕГЭ и в этом нам поможет статья от автора канала Wild Mathing. В этой статье разбораны основные методы решения заданий ЕГЭ, а именно: сведение к квадратным уравнениям, группировка и разложение на множители, сведение уравнения к однородным, работа с ОДЗ и отбор корней. В статье 22 примера с полным решением и оформлением, на последнее обратите внимание ибо за  неправильное оформление вам могут снизить балл на экзамене. <a href="Статья_«Тригонометрические_уравнения»_.pdf">статья</a></p>
+<p>После освоения теории, вам нужно будет заточить свои навыки под уровень ЕГЭ и в этом нам поможет статья от автора канала Wild Mathing. В этой статье разбораны основные методы решения заданий ЕГЭ, а именно: сведение к квадратным уравнениям, группировка и разложение на множители, сведение уравнения к однородным, работа с ОДЗ и отбор корней. В статье 22 примера с полным решением и оформлением, на последнее обратите внимание ибо за  неправильное оформление вам могут снизить балл на экзамене. <a href="materials/СтатьяТригонометрическиеУравнения.pdf">Cтатья</a></p>
 
 <h4 id="2-где-практиковаться">2. Где практиковаться?</h4>
 <p>После освоения основных методов решения вам нужно практиковаться и найти хороший источник примеров. С этим сейчас нет проблем, ниже приведу одни из лучших источников.</p>
@@ -118,7 +85,7 @@
 <h4 id="32">3.2</h4>
 <p>Тут мы добрались до задач олимпиадного уровня. Недавно автор канала “Wild Mathing” опубликовал у себя в группе ВК файл с примерами домашнего задания с его закрытого олимпиадного уровня, там собраны задачи с олимпиад последних лет и ссылки на решение к каждой из них. <a href="materials/12_Тригонометрия_Аркфункции,_неравенства.pdf">PDF</a></p>
 
-<p>На этом у меня всё. Удачного вам изучения или же повторения материла. С вами был математикъ. До новых встреч!</p>
+<p>На этом у меня всё. Удачного вам изучения или же повторения материла. С вами был канал <a href="https://t.me/welovemathh">математикъ</a>. До новых встреч!</p>
 
 <main class="page-content" aria-label="Content">
       <div class="w">

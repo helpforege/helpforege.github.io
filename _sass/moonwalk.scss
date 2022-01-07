@@ -59,7 +59,7 @@ blockquote {
 }
 
 img {
-  max-width: 100%;
+  max-width: 100%; 
   display: block;
   margin: 0 auto;
 }
@@ -69,7 +69,7 @@ html {
     --headings: #282828;
     --text: #000000;
 
-    --links: #040542;
+    --links: #a000a0;
     --highlight: #a89984; // light yellow
     --code-text: #9D174D;
     --share-text: #999;
@@ -99,6 +99,7 @@ html, body {
     color: var(--text);
 }
 h1, h2, h3, h4, h5, h6 {
+    //text-align: center;
     color: var(--headings);
 }
 p, strong, b, em, small, li, hr, table, figcaption {
@@ -112,6 +113,7 @@ blockquote {
   border: 1px var(--border) solid;
 }
 a {
+  text-decoration: none;
   color: var(--links);
 }
 *:target { background-color: var(--bg-secondary); }
@@ -198,3 +200,4 @@ p code, li code {
     color: var(--links);
   }
 }
+
