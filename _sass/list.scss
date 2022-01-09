@@ -1,6 +1,6 @@
 ul.horizontal-list {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   margin-top: 0em;
   margin-left: -40px;
   flex-wrap: wrap;
@@ -18,17 +18,20 @@ ul.horizontal-list {
 }
 
 .card {
-  padding: 0em;
-  //border: 1px var(--text) solid;
-  width: 14em;
+  //padding: 0em;
+  //border: 2px var(--text) solid;
+  //border-style: double ;
+  margin-top: 0.8em;
+  width: 12em;
   height: auto;
+  margin: 0.8em;
   text-align: center;
   font-size: 1em;
   align-items: center;
-  background-color: #99c1f1;
+  //background-color: #99c1f1;
+  background: linear-gradient(to bottom right, #ffafbd, #ffc3a0);
   //margin-bottom: 1em;
   border-radius: 0.3em;
-
   .header {
     color: #000000;
   }
@@ -38,7 +41,16 @@ ul.horizontal-list {
   }
 
   hr {
-    margin: 0.5em 0;
+    margin: 0.2em 0;
+	  padding: 0;
+	  height: 0;
+  	border: none;
+	  border-top: 1px solid #333;
+  }
+  &:hover{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  
   }
 
 }

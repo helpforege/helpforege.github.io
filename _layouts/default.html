@@ -8,20 +8,6 @@
         {% if site.theme_config.appearance_toggle %}
           {% include toggle_theme_button.html %}
         {% endif %}
-        <div class="credits">
-          {%- if site.theme_config.show_copyright == true -%}
-          &copy;&nbsp;{{ "now" | date: "%Y" }}&nbsp;{{site.author}}
-          &nbsp;
-          •
-          &nbsp;
-          {%- endif -%}
-          {%- if site.soopr -%}
-          <a href="https://t.me/welovemathh" target="_blank" rel="noreferrer">канал</a>
-          &nbsp;
-          •
-          &nbsp;
-          {%- endif -%}
-          &nbsp; <a href="https://t.me/ilovematematiku" target="_blank" rel="noreferrer">чат</a>
       </div>
     </main>
 
