@@ -5,7 +5,7 @@ html { height: 100%; }
 
 body {
   font-family:  "ubuntu", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
-  font-size: 1.0rem;
+  font-size: 1rem;
   line-height: 2;
   margin: 0;
   min-height: 100%;
@@ -64,11 +64,11 @@ img {
   margin: 0 auto;
 }
 html {
-    --bg: #f3f1f5;
-    --bg-secondary: #F0D9FF;
+    --bg: #f6f5f4;
+    --bg-secondary: #deddda;
     --headings: #282828;
-    --text: #000000;
-    --links: #a000a0;
+    --text: #241f31;
+    --links: #3584e4;
     --highlight: #a89984; // light yellow
     --code-text: #9D174D;
     --share-text: #999;
@@ -114,6 +114,7 @@ blockquote {
 a {
   text-decoration: none;
   color: var(--links);
+  padding: 0.7em;
 }
 *:target { background-color: var(--bg-secondary); }
 
