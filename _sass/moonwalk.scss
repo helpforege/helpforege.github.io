@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Rubik+One&subset=latin,cyrillic');
 html { height: 100%; }
 
 body {
@@ -182,6 +182,17 @@ p code, li code {
 }
 .post-title {
   margin-bottom:-1.5rem;
+}
+.gradient-text {
+  font-family: 'Rubik One', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  background: -webkit-linear-gradient(90deg,#0938a3,#90a8ce,#c0cfde); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0938a3,#7b9ed6,#81bcf7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0B2349;
+  display: table;
+  margin: 20px auto;
 }
 .project-title {
   margin-bottom: 0.8rem;
