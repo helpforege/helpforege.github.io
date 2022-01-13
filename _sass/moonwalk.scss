@@ -109,6 +109,11 @@ html {
     }
   
   }
+  .theme-toggle:hover {
+    //color: var(--links);
+    color: #ffafbd;
+    outline: none;
+  }
 }
 html[data-theme="dark"] { @include dark-appearance; }
 
@@ -164,7 +169,8 @@ html.transition *:after {
 }
 
 .theme-toggle:hover {
-  color: var(--links);
+  //color: var(--links);
+  color: #67b2fd;
   outline: none;
 }
 .theme-toggle:focus {
@@ -236,14 +242,4 @@ p code, li code {
   }
 }
 
-.preloader {
-  position: fixed;
-  left: 0;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  overflow: hidden;
-  background: #fff;
-  z-index: 1001;
-}
 
