@@ -156,6 +156,7 @@ html.transition *:after {
 }
 
 .theme-toggle {
+  //color: #ffafbd;
   color: var(--text);
   background-color: transparent;
   padding: 4px;
@@ -217,10 +218,10 @@ p code, li code {
   font-family: 'Rubik One', sans-serif;
   font-size: 50px;
   text-transform: uppercase;
-  background: -webkit-linear-gradient(90deg,#0938a3,#90a8ce,#c0cfde); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0938a3,#7b9ed6,#81bcf7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(90deg,#0938a3,#ac62c2,#c0cfde); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0938a3,#7b9ed6,#81bcf7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  color: #0B2349;
+  //color: #0B2349;
   display: table;
   margin: 20px auto;
 }
