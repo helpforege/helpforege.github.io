@@ -1,95 +1,10 @@
-<!DOCTYPE html>
-<html lang="en" class="html" data-theme="light"><head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+I"�"<p class="gradient-text">TRIGONOMETRY</p>
 
-  <title>
-    
-      Тригонометрия и с чем её едят
-    
-  </title>
-
-  <!-- Begin Jekyll SEO tag v2.7.3 -->
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Тригонометрия и с чем её едят" />
-<meta name="author" content="Abhinav Saxena" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="TRIGONOMETRY" />
-<meta property="og:description" content="TRIGONOMETRY" />
-<link rel="canonical" href="welovemath.github.io/trigonometry.html" />
-<meta property="og:url" content="welovemath.github.io/trigonometry.html" />
-<meta property="og:site_name" content="МАТЕМАТИКЪ" />
-<meta property="og:image" content="https://soopr.xyz/images/card?url=welovemath.github.io/trigonometry.html" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2021-11-14T00:00:00+00:00" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta property="og:image" content="https://soopr.xyz/images/card?url=welovemath.github.io/trigonometry.html" />
-<meta property="twitter:title" content="Тригонометрия и с чем её едят" />
-<meta name="twitter:site" content="@abhinav" />
-<meta name="twitter:creator" content="@Abhinav Saxena" />
-<script type="application/ld+json">
-{"description":"TRIGONOMETRY","headline":"Тригонометрия и с чем её едят","url":"welovemath.github.io/trigonometry.html","datePublished":"2021-11-14T00:00:00+00:00","dateModified":"2021-11-14T00:00:00+00:00","author":{"@type":"Person","name":"Abhinav Saxena"},"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"welovemath.github.io/trigonometry.html"},"@context":"https://schema.org"}</script>
-<script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
-<!-- End Jekyll SEO tag -->
-
-  <link type="application/atom+xml" rel="alternate" href="welovemath.github.io/feed.xml" title="МАТЕМАТИКЪ" />
-
-  <link rel="shortcut icon" type="image/x-icon" href="//logo.png" />
-  <link rel="stylesheet" href="/assets/css/main.css" />
-  
-    <script type="text/javascript">
-  window.addEventListener('load', themeChange);
-  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
-  if (currentTheme)
-    document.documentElement.setAttribute('data-theme', currentTheme);
-
-  function themeChange() {
-    let button = document.querySelector('.theme-toggle');
-
-    button.addEventListener('click', function (e) {
-      let currentTheme = document.documentElement.getAttribute('data-theme');
-      if (currentTheme === 'dark') {
-        transition();
-        document.documentElement.setAttribute('data-theme', 'light');
-        localStorage.setItem('theme', 'light');
-      } else {
-        transition();
-        document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
-      }
-    });
-
-    let transition = () => {
-      document.documentElement.classList.add('transition');
-      window.setTimeout(() => {
-        document.documentElement.classList.remove('transition');
-      }, 1000);
-    }
-  }
-</script>
-
-
-  
-</head>
-<body>
-    <main class="page-content" aria-label="Content">
-      <div class="w">
-        <a href="/">Назад</a>
-<!--<h1 class="post-title">Тригонометрия и с чем её едят</h1>
-<p class="post-date text-bold text-upcase">
-  
-    <span>November 2021</span>
-  
-</p>
-
-<div class="soopr-btn"
-   data-twitter="SooprCo"
->
-</div>
--->
-<h1 class="gradient-text">TRIGONOMETRY</h1>
-
+<div class="language-diff highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gd">- red fe
+</span><span class="gi">+ green
+</span><span class="gs">! orange
+</span><span class="err">#</span> gray
+</code></pre></div></div>
 <p>Тут будут собраны ссылки на ресурсы и файлы, которые помогут вам без проблем освоить материал. Статья будет полезна как начинающим, так и тем, кто уже освоил этот номер и хочет чего-то большего, чем обычное ЕГЭ.</p>
 
 <p>Содержание:</p>
@@ -148,21 +63,4 @@
 <p>Тут мы добрались до задач олимпиадного уровня. Недавно автор канала “Wild Mathing” опубликовал у себя в группе ВК файл с примерами домашнего задания с его закрытого олимпиадного уровня, там собраны задачи с олимпиад последних лет и ссылки на решение к каждой из них. <a href="materials/12_Тригонометрия_Аркфункции,_неравенства.pdf">PDF</a></p>
 
 <p>На этом у меня всё. Удачного вам изучения или же повторения материла. С вами был канал <a href="https://t.me/welovemathh">математикъ</a>. До новых встреч!</p>
-
-
-        
-          <button title="Toggle Theme" class="theme-toggle">
-  <svg viewBox="0 0 32 32" width="25" height="25" fill="currentcolor">
-    <circle cx="16" cy="16" r="14" fill="none" stroke="currentcolor" stroke-width="4"></circle>
-    <path d="
-             M 16 0
-             A 16 16 0 0 0 16 32
-             z">
-    </path>
-  </svg>
-</button>
-
-        
-      </div>
-    </main><script async defer src="https://sdk.soopr.co/soopr.js"></script></body>
-</html>
+:ET

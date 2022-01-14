@@ -1,9 +1,4 @@
----
-layout: post
-title: "Тригонометрия и с чем её едят"
----
-
- <h1 class="gradient-text">TRIGONOMETRY</h1>
+I"�<h2 class="gradient-text">TRIGONOMETRY&lt;/h&gt;
 
  
 Тут будут собраны ссылки на ресурсы и файлы, которые помогут вам без проблем освоить материал. Статья будет полезна как начинающим, так и тем, кто уже освоил этот номер и хочет чего-то большего, чем обычное ЕГЭ. 
@@ -28,13 +23,13 @@ title: "Тригонометрия и с чем её едят"
 #### 1.1
  Если вы любитель освоить материал за один стрим, то вам смело на стрим от Бориса Трушина по тригонометрии за три часа — [тык](https://youtu.be/Z5PrN6xen1g)
 
-<iframe src="https://www.youtube-nocookie.com/embed/Z5PrN6xen1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/Z5PrN6xen1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 #### 1.2
 Если у вас есть немного больше времени и вы хотите разобраться глубже в тригонометрии, то тут мы задержимся немного подольше. Для вас есть отдельный плейлист со всей теорией от канала "Элементарная математика" и дальше я часто буду ссылаться на этот канал. Ссылка на плейлист по тригонометрии с нуля — [тык](https://youtube.com/playlist?list=PL1ZFQKClTmukaPmGvPk6dSpul3-zTpVlu)
 
-<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL1ZFQKClTmukaPmGvPk6dSpul3-zTpVlu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL1ZFQKClTmukaPmGvPk6dSpul3-zTpVlu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### 1.3
 Если вы любитель книг и не хотите смотреть видео, то для вас тоже есть вариант. Книга И. М. Гельфанда "Тригонометрия"  — [тык](materials/Тригонометрия-Гельфанд.pdf)
@@ -77,3 +72,5 @@ title: "Тригонометрия и с чем её едят"
 
 
 На этом у меня всё. Удачного вам изучения или же повторения материла. С вами был канал [математикъ](https://t.me/welovemathh). До новых встреч!
+</h2>
+:ET
