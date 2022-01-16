@@ -1,13 +1,4 @@
-navbar_entries:
-  - title: Беседа в ВК
-    url: https://www.google.com/?hl=ru
-
-  - title: Всё для егэ
-    url: https://mankov11klass.github.io/ege/
-
-
-
-project_entries:
+math:
   - title: Сливы
     url: sliv
     desc: Записи курсов от разных преподавателей и онлайн–школ
@@ -27,14 +18,24 @@ project_entries:
   - title: Неравенства
     url: inequalities
     desc: Неравенства или же самые лёгкие баллы ЕГЭ
-
-
+rus:
+  - title: Сливы
+    url: russliv
+    desc: Записи курсов от разных преподавателей и онлайн–школ
 
 
 footer_entries:
-  - title: telegram
+  - title: abhinav's homepage
     url: https://www.abhinav.co
 
+  - title: twitter
+    url: https://twitter.com/abhinav
+
+  - title: github
+    url: https://github.com/abhinavs
+
+  - title: feed
+    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
@@ -44,7 +45,7 @@ misc_entries:
     url: false
 
   - title: and you can add data in _data/home.yml
-    url: true
+    url: false
 
   - title: Blog posts
     post_list: true
