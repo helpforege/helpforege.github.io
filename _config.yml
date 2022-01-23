@@ -1,8 +1,9 @@
-title: Ботаем
+title: helpforege
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
 permalink: /:slug.html
+php_path: __DIR__/../.php/
 
 favicon: "./logo.png" # relative path to site's favicon
 
@@ -31,13 +32,14 @@ theme_config:
   home:
     title_projects: Математика
     title_misc_list: Details
-    title_blog: Последние обновления -
+    title_blog: Новости
     title_old_projects: Информатика
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
+include: [.php]
 
 sass:
   style: :compressed

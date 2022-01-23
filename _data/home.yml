@@ -22,7 +22,14 @@ rus:
   - title: Сливы
     url: russliv
     desc: Записи курсов от разных преподавателей и онлайн–школ
-
+bio:
+  - title: 22 задание
+    url: bio22
+    desc: Теория для подготовки к 22 заданию
+marafon:
+  - title: Марафоны
+    url: marafon
+    desc: none
 
 footer_entries:
   - title: abhinav's homepage

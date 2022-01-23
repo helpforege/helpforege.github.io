@@ -4,3 +4,8 @@ source "https://rubygems.org"
 gemspec
 
 gem "webrick", "~> 1.7"
+
+gem "jekyll-php", "~> 1.0"
+
+gem "jekyll-youtube", "~> 1.0"
+  

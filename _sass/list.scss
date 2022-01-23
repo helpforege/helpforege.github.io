@@ -6,7 +6,7 @@ ul.horizontal-list {
   flex-wrap: wrap;
 
   li {
-    display: inline-block;
+    //display: inline-block;
   }
 
   li a {
@@ -17,7 +17,7 @@ ul.horizontal-list {
 
 }
 
-.cardmath {
+.card {
   //padding: 0em;
   //border: 2px var(--text) solid;
   //border-style: double ;
@@ -28,184 +28,23 @@ ul.horizontal-list {
   text-align: center;
   font-size: 1em;
   align-items: center;
-  background-color: #96CAF7;
-  border-radius: 0.3em;
-  a, p{
-    color: #000000;
-  }
-  .header {
-    color: #000000;
-  }
+  //background-color: #99c1f1;
+  //background: linear-gradient(to bottom right, #ffafbd, #ffc3a0);
+  //background-color: #8EC5FC;
+  background-image:  #b592f5 ;
 
-  .body {
-    --text: #000000;
-    font-size: 0.8em;
-  }
-
-  hr {
-    margin: 0.2em 0;
-	  padding: 0;
-	  height: 0;
-  	border: none;
-	  border-top: 1px solid #333;
-  }
-  &:hover{
-     
-  
-  }
-
-}
-.cardbio {
-  //padding: 0em;
-  //border: 2px var(--text) solid;
-  //border-style: double ;
-  margin-top: 0.8em;
-  width: 12em;
-  height: auto;
-  margin: 0.8em;
-  text-align: center;
-  font-size: 1em;
-  align-items: center;
-  background-color: #9CDCAA;
   //margin-bottom: 1em;
-  border-radius: 0.3em;
-  a, p{
+  border-radius: 0.3em; 
+  a{
     color: #000000;
   }
-  .header {
-    color: #000000;
-  }
-
-  .body {
-    --text: #000000;
-    font-size: 0.8em;
-  }
-
-  hr {
-    margin: 0.2em 0;
-	  padding: 0;
-	  height: 0;
-  	border: none;
-	  border-top: 1px solid #333;
-  }
-  &:hover{
-     
-  }
-
 }
-.cardchem {
-  //padding: 0em;
-  //border: 2px var(--text) solid;
-  //border-style: double ;
-  margin-top: 0.8em;
-  width: 12em;
-  height: auto;
-  margin: 0.8em;
-  text-align: center;
-  font-size: 1em;
-  align-items: center;
-  background-color: #BFB2F3;
-  //margin-bottom: 1em;
-  border-radius: 0.3em;
-  a, p{
-    color: #000000;
-  }
-  .header {
-    color: #000000;
-  }
 
-  .body {
-    --text: #000000;
-    font-size: 0.8em;
-  }
+  .card:hover{
+    transition: 0.1s;
 
-  hr {
-    margin: 0.2em 0;
-	  padding: 0;
-	  height: 0;
-  	border: none;
-	  border-top: 1px solid #333;
-  }
-  &:hover{
-     
-  }
-
-}
-.cardrus {
-  //padding: 0em;
-  //border: 2px var(--text) solid;
-  //border-style: double ;
-  margin-top: 0.8em;
-  width: 12em;
-  height: auto;
-  margin: 0.8em;
-  text-align: center;
-  font-size: 1em;
-  align-items: center;
-  background-color: #F3C6A5;
-  //margin-bottom: 1em;
-  border-radius: 0.3em;
-  a, p{
-    color: #000000;
-  }
-  .header {
-    color: #000000;
-  }
-
-  .body {
-    --text: #000000;
-    font-size: 0.8em;
-  }
-
-  hr {
-    margin: 0.2em 0;
-	  padding: 0;
-	  height: 0;
-  	border: none;
-	  border-top: 1px solid #333;
-  }
-  &:hover{
-     
-  }
-
-}
-.cardinf {
-  //padding: 0em;
-  //border: 2px var(--text) solid;
-  //border-style: double ;
-  margin-top: 0.8em;
-  width: 12em;
-  height: auto;
-  margin: 0.8em;
-  text-align: center;
-  font-size: 1em;
-  align-items: center;
-  background-color: #D6AEC9;
-  //margin-bottom: 1em;
-  border-radius: 0.3em;
-  a, p{
-    color: #000000;
-  }
-  .header {
-    color: #000000;
-  }
-
-  .body {
-    --text: #000000;
-    font-size: 0.8em;
-  }
-
-  hr {
-    margin: 0.2em 0;
-	  padding: 0;
-	  height: 0;
-  	border: none;
-	  border-top: 1px solid #333;
-  }
-  &:hover{
-    
-  }
-
+    transform: scale(1.01);
+ box-shadow: 0px 10px 20px rgba(0,0,0,.12), 0px 4px 8px rgba(0,0,0,.06);
 }
 /* Responsive cards - one column layout on small screens */
 @media screen and (max-width: 600px) {

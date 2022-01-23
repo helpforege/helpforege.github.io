@@ -29,35 +29,14 @@ hr.page-break {
 
 p { margin: 1em 0; }
 
-li { margin: 0.4em 0; }
+//li { margin: 0.4em 0; }
 .w {
   z-index: 2;
   max-width: 720px;
   margin: 0 auto;
   padding: 2em 2em;
 }
-.card {
-  //padding: 0em;
-  //border: 2px var(--text) solid;
-  //border-style: double ;
-  margin-top: 0.8em;
-  width: 12em;
-  height: auto;
-  margin: 0.8em;
-  text-align: center;
-  font-size: 1em;
-  align-items: center;
-  //background-color: #99c1f1;
-  //background: linear-gradient(to bottom right, #ffafbd, #ffc3a0);
-  //background-color: #8EC5FC;
-  background-image:  #b592f5 ;
 
-  //margin-bottom: 1em;
-  border-radius: 0.3em; 
-  a{
-    color: #000000;
-  }
-}
 table, th, td {
   width: 100%;
   border: thin solid black;
@@ -264,4 +243,8 @@ p code, li code {
   a:hover {
     color: var(--links);
   }
+}
+
+ul, li{
+  list-style: none;
 }

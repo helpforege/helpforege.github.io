@@ -1,27 +1,13 @@
-
-<ul class="horizontal-list">
-  {% for item in include.collection %}
-
-    <li class="cardbio">
-      <a href="{{ item.url }}">
-        <span class="header">
-          {{ item.title }}
-
-          {% if item.highlight %}
-            <mark>{{ item.highlight }}</mark>
-          {% endif %}
-
-        </span>
-
-        <hr />
-
-        {% if item.desc != false %}
-        <p class="body">
-          {{ item.desc }}
-        </p>
-        {% endif %}
-      </a>
-    </li>
-
-  {% endfor %}
-</ul>
+{% for item in include.collection %}
+<link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,900" rel="stylesheet" >
+<div class="container">
+<div class="row">
+  <a href="/{{ item.url }}" style="padding: 0;"><div class="col-md-4">
+    <div class="cardpage cardpageback" style="  background-color: var(--bio);">
+      <h4 style="margin-top: 0;">{{ item.title }}</h4>
+      <p style="margin-bottom: 0;">{{ item.desc }}</p>
+    </div>
+  </div></a>
+</div>
+</div>
+{% endfor %}
