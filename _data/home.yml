@@ -29,5 +29,13 @@ marafon:
   - title: Марафоны
     url: marafon
     desc: none
+misc_entries:
+  - title: this is an example vertical list
+    url: false
 
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: and you can add data in _data/home.yml
+    url: false
 
