@@ -1,0 +1,30 @@
+{% for item in include.collection %}
+<link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,900" rel="stylesheet" >
+<div class="container">
+<div class="row">
+  <a href="/{{ item.url }}" style="padding: 0;"><div class="col-md-4">
+    <div class="cardpage cardpageback " style="
+    /* ff 3.6+ */
+    background:-moz-linear-gradient(101deg, rgba(150, 202, 247, 1) 0%, rgba(214, 174, 201, 1) 100%); 
+
+    /* safari 5.1+,chrome 10+ */
+    background:-webkit-linear-gradient(101deg, rgba(150, 202, 247, 1) 0%, rgba(214, 174, 201, 1) 100%);
+
+    /* opera 11.10+ */
+    background:-o-linear-gradient(101deg, rgba(150, 202, 247, 1) 0%, rgba(214, 174, 201, 1) 100%);
+
+    /* ie 6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D6AEC9', endColorstr='#96CAF7', GradientType=0 );
+
+    /* ie 10+ */
+    background:-ms-linear-gradient(101deg, rgba(150, 202, 247, 1) 0%, rgba(214, 174, 201, 1) 100%);
+
+    /* global 94%+ browsers support */
+    background:linear-gradient(101deg, rgba(150, 202, 247, 1) 0%, rgba(214, 174, 201, 1) 100%); ">
+      <h4 style="margin-top: 0;">{{ item.title }}</h4>
+      <p style="margin-bottom: 0;">{{ item.desc }}</p>
+    </div>
+  </div></a>
+</div>
+</div>
+{% endfor %}

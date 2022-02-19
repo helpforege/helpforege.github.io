@@ -1,0 +1,170 @@
+<style>
+    @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+
+    *,
+    *:after,
+    *:before {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: "Inter", sans-serif;
+        line-height: 1.5;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #eee;
+    }
+
+    .menu {
+        padding: 2rem;
+        background-color: #fff;
+        position: relative;
+        width: calc(130px + 4 * 70px + 4rem);
+        display: flex;
+        justify-content: center;
+        border-radius: 20px 20px;
+        box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.075);
+    }
+
+    .link {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        width: 70px;
+        height: 50px;
+        border-radius: 99em;
+        position: relative;
+        z-index: 1;
+        overflow: hidden;
+        transform-origin: center left;
+        transition: width 0.2s ease-in;
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .link:before {
+        position: absolute;
+        z-index: -1;
+        content: "";
+        display: block;
+        border-radius: 99em;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        transform: translateX(100%);
+        transition: transform 0.2s ease-in;
+        transform-origin: center right;
+        background-color: #eee;
+    }
+
+    .link:hover,
+    .link:focus {
+        outline: 0;
+    }
+
+    .link:hover:before,
+    .link:hover .link-title,
+    .link:focus:before,
+    .link:focus .link-title {
+        transform: translateX(0);
+        opacity: 1;
+    }
+
+    .link-icon {
+        display: block;
+        flex-shrink: 0;
+        position: absolute;
+    }
+
+    .link-icon svg {
+        width: 28px;
+        height: 28px;
+    }
+
+    .link-title {
+        transform: translateX(100%);
+        transition: transform 0.2s ease-in;
+        transform-origin: center right;
+        display: block;
+        text-align: center;
+        text-indent: 28px;
+        width: 100%;
+    }
+</style>
+<div class="menu">
+    <a href="#" class="link">
+        <span class="link-icon">
+            <!-- icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="currentColor" viewBox="0 0 256 256">
+                <rect width="256" height="256" fill="none"></rect>
+                <path
+                    d="M213.3815,109.61945,133.376,36.88436a8,8,0,0,0-10.76339.00036l-79.9945,72.73477A8,8,0,0,0,40,115.53855V208a8,8,0,0,0,8,8H208a8,8,0,0,0,8-8V115.53887A8,8,0,0,0,213.3815,109.61945Z"
+                    fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16">
+                </path>
+            </svg>
+            <!-- /icon -->
+        </span>
+        <span class="link-title">Home</span>
+    </a>
+    <a href="#" class="link">
+        <span class="link-icon">
+            <!-- icon -->
+            <p>1</p>
+            <!-- /icon -->
+        </span>
+        <span class="link-title"> </span>
+    </a>
+    <a href="#" class="link">
+        <span class="link-icon">
+            <!-- icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="currentColor" viewBox="0 0 256 256">
+                <rect width="256" height="256" fill="none"></rect>
+                <path
+                    d="M45.42853,176.99811A95.95978,95.95978,0,1,1,79.00228,210.5717l.00023-.001L45.84594,220.044a8,8,0,0,1-9.89-9.89l9.47331-33.15657Z"
+                    fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16">
+                </path>
+                <line x1="96" y1="112" x2="160" y2="112" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16"></line>
+                <line x1="96" y1="144" x2="160" y2="144" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16"></line>
+            </svg>
+            <!-- /icon -->
+        </span>
+        <span class="link-title">Chat</span>
+    </a>
+
+    <a href="#" class="link">
+        <span class="link-icon">
+            <!-- icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="currentColor" viewBox="0 0 256 256">
+                <rect width="256" height="256" fill="none"></rect>
+                <circle cx="116" cy="116" r="84" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16"></circle>
+                <line x1="175.39356" y1="175.40039" x2="223.99414" y2="224.00098" fill="none" stroke="currentColor"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></line>
+            </svg>
+            <!-- /icon -->
+        </span>
+        <span class="link-title">Search</span>
+    </a>
+    <a href="#" class="link">
+        <span class="link-icon">
+            <!-- icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="currentColor" viewBox="0 0 256 256">
+                <rect width="256" height="256" fill="none"></rect>
+                <circle cx="128" cy="96" r="64" fill="none" stroke="currentColor" stroke-miterlimit="10"
+                    stroke-width="16"></circle>
+                <path d="M30.989,215.99064a112.03731,112.03731,0,0,1,194.02311.002" fill="none" stroke="currentColor"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path>
+            </svg>
+            <!-- /icon -->
+        </span>
+        <span class="link-title">Profile</span>
+    </a>
+</div>
+<div>
+    <p>rfrf</p>
+</div>
+
+rfrfrfr

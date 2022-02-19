@@ -16,26 +16,22 @@ math:
 
   - title: Неравенства
     url: inequalities
-    desc: Неравенства или же самые лёгкие баллы ЕГЭ
-rus:
-  - title: Сливы
-    url: russliv
-    desc: Записи курсов от разных преподавателей и онлайн–школ
-bio:
-  - title: 22 задание
-    url: bio22
-    desc: Теория для подготовки к 22 заданию
-marafon:
-  - title: Марафоны
-    url: marafon
-    desc: none
-misc_entries:
-  - title: this is an example vertical list
-    url: false
+    desc: Статья–путеводитель о 14 номере экзамена по математике
+inf:
+  - title: Где заниматься?
+    url: slivinf
+    desc: Список материалов и ссылок на сливы
 
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
+news:
+  - title: Обновления на сайте
+    url: news
+    desc: Последние обновления и дальнейшие планы
 
-  - title: and you can add data in _data/home.yml
-    url: false
+  - title: О нас
+    url: aboutus
+    desc: Описание проекта и обратная связь
 
+lastpost:
+  - title: Неравенства
+    url: inequalities
+    desc: Статья–путеводитель о 14 номере экзамена по математике
